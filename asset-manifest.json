@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.c19c18a7.css",
-    "main.js": "/my-app/static/js/main.90bf96b4.js",
-    "static/media/1st.jpg": "/my-app/static/media/1st.bcb7d5334048a442383d.jpg",
-    "static/media/2nd.jpg": "/my-app/static/media/2nd.5363b1dabf4eb6a931cd.jpg",
-    "static/media/project1.jpg": "/my-app/static/media/project1.8ab885b6530b1f75cde1.jpg",
-    "static/media/project1_poster.jpg": "/my-app/static/media/project1_poster.9fab26be5f31d511db54.jpg",
-    "static/media/3rd.jpg": "/my-app/static/media/3rd.be7db78d4b3c0e7ac28b.jpg",
-    "static/media/UserPersona.png": "/my-app/static/media/UserPersona.7fc4a3f7f01640ae474a.png",
-    "static/media/profile-pic.jpg": "/my-app/static/media/profile-pic.c8594c422d3463d5c3c5.jpg",
-    "static/media/Affintymap.jpg": "/my-app/static/media/Affintymap.f0c696f0b0fdc2b33ae1.jpg",
-    "static/media/Ideation.png": "/my-app/static/media/Ideation.2bfc601c2e464ec2590a.png",
-    "static/media/work1.PNG": "/my-app/static/media/work1.4df9edc78140dbd6fcb8.PNG",
-    "index.html": "/my-app/index.html",
-    "main.c19c18a7.css.map": "/my-app/static/css/main.c19c18a7.css.map",
-    "main.90bf96b4.js.map": "/my-app/static/js/main.90bf96b4.js.map"
+    "main.css": "/static/css/main.c19c18a7.css",
+    "main.js": "/static/js/main.206e6b68.js",
+    "static/media/1st.jpg": "/static/media/1st.bcb7d5334048a442383d.jpg",
+    "static/media/2nd.jpg": "/static/media/2nd.5363b1dabf4eb6a931cd.jpg",
+    "static/media/project1.jpg": "/static/media/project1.8ab885b6530b1f75cde1.jpg",
+    "static/media/project1_poster.jpg": "/static/media/project1_poster.9fab26be5f31d511db54.jpg",
+    "static/media/3rd.jpg": "/static/media/3rd.be7db78d4b3c0e7ac28b.jpg",
+    "static/media/UserPersona.png": "/static/media/UserPersona.7fc4a3f7f01640ae474a.png",
+    "static/media/profile-pic.jpg": "/static/media/profile-pic.c8594c422d3463d5c3c5.jpg",
+    "static/media/Affintymap.jpg": "/static/media/Affintymap.f0c696f0b0fdc2b33ae1.jpg",
+    "static/media/Ideation.png": "/static/media/Ideation.2bfc601c2e464ec2590a.png",
+    "static/media/work1.PNG": "/static/media/work1.4df9edc78140dbd6fcb8.PNG",
+    "index.html": "/index.html",
+    "main.c19c18a7.css.map": "/static/css/main.c19c18a7.css.map",
+    "main.206e6b68.js.map": "/static/js/main.206e6b68.js.map"
   },
   "entrypoints": [
     "static/css/main.c19c18a7.css",
-    "static/js/main.90bf96b4.js"
+    "static/js/main.206e6b68.js"
   ]
 }
