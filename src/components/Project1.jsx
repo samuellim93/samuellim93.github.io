@@ -14,7 +14,7 @@ const Project1 = () => {
     <div>
       <Navbar />
       <div className='w-full h-auto bg-zinc-200'>
-        <div className='max-w-7xl h-auto m-auto py-[100px] border-2 border-green-600 flex flex-col justify-center'>
+        <div className='max-w-7xl h-auto m-auto py-[100px] border-2 flex flex-col justify-center'>
           
           <div className='flex flex-col flex-wrap justify-center mx-20 py-3 md:items-center'>
             <img src={Poster1} alt="/" />
