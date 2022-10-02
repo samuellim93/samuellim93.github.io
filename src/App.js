@@ -9,11 +9,12 @@ import {
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/">
         <Routes>
             <Route path='/' element={<Home />} />
             <Route path='/project1' element={<Project1 />} />
         </Routes>
+
       </BrowserRouter>
     </>
   );
