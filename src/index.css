@@ -19,6 +19,7 @@
     }
 
     .test {
-
+        @apply text-white border bg-zinc-600 px-12 py-6 text-center
+        hover:bg-sky-400 hover:text-white rounded-md
     }
 }

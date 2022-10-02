@@ -5,10 +5,10 @@ const SkillQualification = () => {
     <div className='w-full h-auto bg-zinc-200'>
       <div className='max-w-7xl h-auto m-auto flex flex-col justify-center'>
         <div className='flex flex-col flex-wrap justify-center mx-20 py-10 md:items-center'>
-          <h1 className='text-5xl md:text-5xl font-bold'>Why should you hire me?</h1>
+          <h1 className='text-5xl md:text-5xl font-bold'>Why you should hire me?</h1>
           </div>
         
-        <div className='flex flex-col flex-wrap justify-center mx-20 md:items-center'>  
+        <div className='flex flex-col flex-wrap justify-start mx-20 md:items-start'>  
           <ul className='text-2xl md:text-2xl'>
             <li>✔️ 3 Years manual testing experience</li>
             <li>✔️ 1 Year Security Engineering experience</li>

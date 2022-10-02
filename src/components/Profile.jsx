@@ -5,8 +5,8 @@ import { DocumentArrowDownIcon } from '@heroicons/react/24/outline'
 const Profile = () => {
   return (
     <div className='w-full h-auto bg-zinc-200'>
-        <div className='max-w-7xl h-auto py-[100px] m-auto flex flex-col justify-center'>
-            <div className='flex flex-row justify-center mx-20 md:items-start'>
+        <div className='max-w-7xl h-auto pb-10 pt-28 m-auto flex flex-col justify-center'>
+            <div className='flex flex-row justify-start mx-20 md:items-start'>
                 <div className='px-10'>
                     <img className='w-[250px] h-auto rounded-full' src={proImg} alt="/" />
                 </div>

@@ -30,12 +30,12 @@ const Navbar = () => {
           </div>
         </div>
 
-        <ul className={!nav ? 'hidden' : 'absolute bg-sky-400 w-full'}>
-              <li className='border-b-2 border-white px-8'>My Works</li>
-              <li className='border-b-2 border-white px-8'>Skills & Qualifications</li>
-              <li className='border-b-2 border-white px-8'>Social Media</li>
-              <li className='border-b-2 border-white px-8'>Work History</li>
-              <li className='border-b-2 border-white px-8'>Resume</li>
+        <ul className={!nav ? 'hidden' : 'absolute bg-zinc-200 w-full'}>
+              <li className='border-b-2 border-white px-8 hover:bg-sky-400 hover:text-white'>My Works</li>
+              <li className='border-b-2 border-white px-8 hover:bg-sky-400 hover:text-white'>Skills & Qualifications</li>
+              <li className='border-b-2 border-white px-8 hover:bg-sky-400 hover:text-white'>Social Media</li>
+              <li className='border-b-2 border-white px-8 hover:bg-sky-400 hover:text-white'>Work History</li>
+              <li className='border-b-2 border-white px-8 hover:bg-sky-400 hover:text-white'>Resume</li>
               <div className=' flex  flex-col h-[66px] px-8 py-3'>
                 <button>Contact Me</button>
               </div>
