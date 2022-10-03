@@ -27,12 +27,6 @@ const Mywork = () => {
                     <h1 className='text-3xl md:text-3xl font-bold py-5'>Capstone Project</h1>
                     <p className='mb-5'>Casestudy for Fintech</p>
                 </div>
-
-                <div>
-                    <img className='w-[500px] h-[300px]'  src={workImg2} alt="/" />
-                    <h1 className='text-3xl md:text-3xl font-bold py-5'>To be Added</h1>
-                    <p className='mb-5'>To be Added</p>
-                </div>
             </div>
         </div>
     </div>

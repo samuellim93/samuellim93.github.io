@@ -11,7 +11,7 @@ const Footer = () => {
     <div className='w-full bg-zinc-200 text-gray-300 px-3 border-t-2 border-zinc-400'>
         <div className='max-w-7xl mx-auto py-8'>
             <div className='flex flex-col px-2 py-4 mx-auto justify-between sm:flex-row text-center text-gray-500'>
-              <p>2022 Samuel Lim, LLC. All rights reserved</p>
+              <p>2022 Samuel Lim. All rights reserved</p>
               
               <div className='flex justify-between sm:w-[300px] pt-4 text-2xl'>
                 <FaFacebook className=' hover:text-sky-400' />

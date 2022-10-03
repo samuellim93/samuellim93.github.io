@@ -1,6 +1,8 @@
 import React from 'react'
 import proImg from '../assets/profile-pic.jpg'
 import { DocumentArrowDownIcon } from '@heroicons/react/24/outline'
+import res from '../assets/Samuel_Resume2022.pdf'
+
 
 const Profile = () => {
   return (
@@ -23,7 +25,7 @@ const Profile = () => {
                             </a>
                         </div>
                         <div className='flex flex-row'> 
-                            <a href='./assets/Samuel_Resume2022.pdf' target="_blank">   
+                            <a href={res} target="_blank" rel="noopener noreferrer" download>   
                                 <p>
                                     <DocumentArrowDownIcon className='w-6 h-6 text-white bg-zinc-600 hover:text-white hover:bg-sky-400'/>
                                 </p>
