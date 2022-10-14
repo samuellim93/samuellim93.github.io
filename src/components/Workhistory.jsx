@@ -26,7 +26,6 @@ const Workhistory = () => {
                 <p>Year Jan 2018 - Nov 2020</p>
                 <ul className='flex flex-col flex-wrap mx-10 md:items-start list-disc'>
                     <li>Identified total of 1000+ test scenarios and cases on 6 different projects.</li>
-                    <li>Followed up with different companies to resolve their issues and schedule a date for their vehicles to go for inspection.</li>
                     <li>Provided manual and automation for desktop and mobile testing.</li>
                     <li>Assigned as an onboarding coordinator to ensure smooth onboarding process within the companies.</li>
                     <li>Prepared built in documentation for operation owners to read up for hand over.</li>
