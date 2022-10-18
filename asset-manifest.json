@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.affe714a.css",
-    "main.js": "/static/js/main.c2ab71ff.js",
+    "main.js": "/static/js/main.86ff075d.js",
     "static/media/Samuel_Resume2022.pdf": "/static/media/Samuel_Resume2022.593ee50a3ed42e54f552.pdf",
     "static/media/1st.jpg": "/static/media/1st.bcb7d5334048a442383d.jpg",
     "static/media/2nd.jpg": "/static/media/2nd.5363b1dabf4eb6a931cd.jpg",
@@ -15,10 +15,10 @@
     "static/media/work1.PNG": "/static/media/work1.4df9edc78140dbd6fcb8.PNG",
     "index.html": "/index.html",
     "main.affe714a.css.map": "/static/css/main.affe714a.css.map",
-    "main.c2ab71ff.js.map": "/static/js/main.c2ab71ff.js.map"
+    "main.86ff075d.js.map": "/static/js/main.86ff075d.js.map"
   },
   "entrypoints": [
     "static/css/main.affe714a.css",
-    "static/js/main.c2ab71ff.js"
+    "static/js/main.86ff075d.js"
   ]
 }
